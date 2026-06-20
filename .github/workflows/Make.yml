@@ -1,4 +1,4 @@
-name: Make Recoveryname: Make Recovery
+name: Make Recovery
 on:
   workflow_dispatch:
     inputs:
