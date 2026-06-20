@@ -6,7 +6,6 @@ on:
       LIBRARY_NAME:
         description: 'LIBRARY_NAME'
         required: true
-   LIBRARY_NAME:
         description: 'LIBRARY_NAME'
         required: true
         default: 'twrp'
